@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Surbhi Jain
 
-<!--
-**sj795019-tech/sj795019-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate  
+📊 Aspiring Data Analyst  
+💻 Python | SQL | Power BI | Pandas | NumPy
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning Data Science
+- 📈 Creating Power BI Dashboards
+- 🐍 Working on Python & SQL Projects
+- 🎯 Goal: Become a Data Analyst
+
+---
+
+## 🛠️ Skills
+- Python
+- SQL
+- Power BI
+- Pandas
+- NumPy
+- Excel
+
+---
+
+## 📂 Projects
+- HR Analytics Dashboard
+- Employee Attrition Dashboard
+- Banking Simulator project
+  
+
+---
+
+## 📫 Connect With Me
+📧 ps5678@gmail.com
