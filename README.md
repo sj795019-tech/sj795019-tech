@@ -20,7 +20,7 @@
 
 # 🌸 About Me
 
-```yaml
+
 Name: Surbhi Jain
 Education: BCA Graduate
 Role: Aspiring Data Analyst
