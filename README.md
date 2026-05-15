@@ -1,4 +1,8 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=220&section=header&text=Surbhi%20Jain&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 <div align="center">
+
 
 # 👋 Hey, I'm Surbhi Jain
 
