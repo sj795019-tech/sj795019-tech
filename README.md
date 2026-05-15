@@ -3,12 +3,6 @@
   # 👋 Hey, I'm Surbhi Jain
 
 ### ✦ Data Analyst • Power BI Developer • Python Enthusiast ✦
-
-</p>
-
-
-
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Interactive+Dashboards+📊;Python+%7C+SQL+%7C+Power+BI+🚀;Turning+Data+Into+Insights+✨"/>
 
 </div>
@@ -16,6 +10,13 @@
 ---
 
 <img align="right" width="320" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
+
+
+</p>
+
+
+
 
 ## 🌸 About Me
 
