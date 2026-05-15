@@ -19,7 +19,7 @@
 
 ## 📊 SKILL LEVELS
 
-```text
+
 Excel / Advanced     █████████░   90%
 SQL                  ████████░░   85%
 Data Visualization   ████████░░   88%
