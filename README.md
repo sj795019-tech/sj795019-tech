@@ -1,12 +1,13 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=220&section=header&text=Surbhi%20Jain&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  # 👋 Hey, I'm Surbhi Jain
+
+### ✦ Data Analyst • Power BI Developer • Python Enthusiast ✦
+
 </p>
 
 
 
-# 👋 Hey, I'm Surbhi Jain
-
-### ✦ Data Analyst • Power BI Developer • Python Enthusiast ✦
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Interactive+Dashboards+📊;Python+%7C+SQL+%7C+Power+BI+🚀;Turning+Data+Into+Insights+✨"/>
 
